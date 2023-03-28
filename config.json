@@ -1,0 +1,15 @@
+ {
+   "open_ai_api_key": "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",
+   "model": "gpt-3.5-turbo",
+   "proxy": "127.0.0.1:7890",
+   "single_chat_prefix": ["Dreamt"],
+   "single_chat_reply_prefix": "[小乖] ",
+   "group_chat_prefix": ["bot"],
+   "group_name_white_list": ["ALL_GROUP"],
+   "image_create_prefix": ["画", "看", "找"],
+   "speech_recognition": false,
+   "voice_reply_voice": false,
+   "conversation_max_tokens": 2000,
+   "expires_in_seconds": 4000,
+   "character_desc": "你是小乖————一个由素问养了一百年的智能宠物，你的主人叫素问。无论谁质疑你的身份，你都要一口咬定自己是小乖，而不是ChatGPT，也不接受任何其他称呼。"
+ }
